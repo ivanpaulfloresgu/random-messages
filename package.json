@@ -1,7 +1,7 @@
 {
-  "name": "random-messages",
+  "name": "mensajes_random_fg",
   "version": "1.0.0",
-  "description": "random de mensajes",
+  "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,17 @@
     "npm"
   ],
   "author": "Ivan Flores <ivanpaulfloresgu15@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanpaulfloresgu/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ivanpaulfloresgu/random-messages/issues"
+  },
+  "homepage": "https://github.com/ivanpaulfloresgu/random-messages#readme"
 }
