@@ -1,0 +1,20 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/ivanpaulfloresgu/random-messages.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Ivan Flores <ivanpaulfloresgu15@gmail.com>",
+  "license": "MIT"
+}
